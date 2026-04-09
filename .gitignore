@@ -1,0 +1,9 @@
+*.bak
+*-bak
+*-backups
+gerber/
+Bilder/
+*.zip
+.history*
+fp-info-cache
+

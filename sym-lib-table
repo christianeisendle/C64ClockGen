@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "C64PALClockGEn")(type "KiCad")(uri "${KIPRJMOD}/C64PALClockGEn.kicad_sym")(options "")(descr ""))
+)
